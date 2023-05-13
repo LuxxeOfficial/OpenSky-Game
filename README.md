@@ -3,6 +3,7 @@ This is a script collection for automatically, live translating your players cha
 
 # How to use?
 Simply place Client.lua in StarterPlayerScripts and Server.lua in ServerScriptService. Also make sure to create a folder in ReplicatedStorage with the RequestTranslation function and SendLocale event.
+
 ➡️ If you want an easy, plug-and-play solution, download our model @ https://www.roblox.com/library/13423892295/
 
 # Why?
